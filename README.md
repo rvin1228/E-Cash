@@ -1,2 +1,2 @@
 # E-Cash
-A simple payment system with the concept of GCash
+A simple CLI payment system with the concept of GCash
