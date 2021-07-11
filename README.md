@@ -6,38 +6,22 @@ A C# CLI payment system with a similar concept of GCash
 * Authentication of user
 - Sign in and Sign up process
 - Verification using MPIN
+
 * View Profile
+
 * Ability to Cash in and Send money
+
 * Payment Methods
 - Buy Load
 - Pay Bills
+
 * Bank Transfer
 ```
 
 ### Limitations
-- Successfully sending the money to another user
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Successfully sending the money to another user
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
