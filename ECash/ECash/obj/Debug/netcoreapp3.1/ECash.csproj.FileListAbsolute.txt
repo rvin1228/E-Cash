@@ -1,0 +1,13 @@
+C:\Users\GhostwireZ\source\repos\ECash\ECash\bin\Debug\netcoreapp3.1\ECash.exe
+C:\Users\GhostwireZ\source\repos\ECash\ECash\bin\Debug\netcoreapp3.1\ECash.deps.json
+C:\Users\GhostwireZ\source\repos\ECash\ECash\bin\Debug\netcoreapp3.1\ECash.runtimeconfig.json
+C:\Users\GhostwireZ\source\repos\ECash\ECash\bin\Debug\netcoreapp3.1\ECash.runtimeconfig.dev.json
+C:\Users\GhostwireZ\source\repos\ECash\ECash\bin\Debug\netcoreapp3.1\ECash.dll
+C:\Users\GhostwireZ\source\repos\ECash\ECash\bin\Debug\netcoreapp3.1\ECash.pdb
+C:\Users\GhostwireZ\source\repos\ECash\ECash\obj\Debug\netcoreapp3.1\ECash.csprojAssemblyReference.cache
+C:\Users\GhostwireZ\source\repos\ECash\ECash\obj\Debug\netcoreapp3.1\ECash.AssemblyInfoInputs.cache
+C:\Users\GhostwireZ\source\repos\ECash\ECash\obj\Debug\netcoreapp3.1\ECash.AssemblyInfo.cs
+C:\Users\GhostwireZ\source\repos\ECash\ECash\obj\Debug\netcoreapp3.1\ECash.csproj.CoreCompileInputs.cache
+C:\Users\GhostwireZ\source\repos\ECash\ECash\obj\Debug\netcoreapp3.1\ECash.dll
+C:\Users\GhostwireZ\source\repos\ECash\ECash\obj\Debug\netcoreapp3.1\ECash.pdb
+C:\Users\GhostwireZ\source\repos\ECash\ECash\obj\Debug\netcoreapp3.1\ECash.genruntimeconfig.cache
