@@ -16,6 +16,8 @@ A C# CLI payment system with a similar concept of GCash
 - Pay Bills
 
 * Bank Transfer
+
+* Transaction Number
 ```
 
 ### Limitations
