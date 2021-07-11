@@ -1,15 +1,9 @@
-# E-Cash
-A simple CLI payment system with the concept of GCash
+## ECash
+A C# CLI payment system with a similar concept of GCash
 
-## Welcome to GitHub Pages
+### Features
 
-You can use the [editor on GitHub](https://github.com/rvin1228/rvin1228.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-[Check my Github Profile](https://github.com/rvin1228)
-
-### Markdown
+### Limitations
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
