@@ -2,6 +2,9 @@
 A C# CLI payment system with a similar concept of GCash
 
 ![main screen](https://user-images.githubusercontent.com/64195231/125182205-a8a27180-e23e-11eb-9c70-6c647a71e593.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64195231/125182205-a8a27180-e23e-11eb-9c70-6c647a71e593.png">
+</p>
 
 ### Features
 ```markdown
