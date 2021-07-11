@@ -24,6 +24,10 @@ A C# CLI payment system with a similar concept of GCash
 * Transaction Number
 ```
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64195231/125182273-46963c00-e23f-11eb-8932-4e48f2c45aba.png">
+</p>
+
 ### Limitations
 ```markdown
 - Successfully sending the money to another user
